@@ -8,8 +8,8 @@
   "scripts": [
     {
       "id": 974367891,
-      "name": "Your Extension Name",
-      "fileName": "your_extension.lua",
+      "name": "DivineXq",
+      "fileName": "divinedaolibrary.lua",
       "version": "1.0.0",
       "lang": "en",
       "imageURL": "https://raw.githubusercontent.com/Xq19shadow/DivineDaoLib/main/icons/icon.png"
