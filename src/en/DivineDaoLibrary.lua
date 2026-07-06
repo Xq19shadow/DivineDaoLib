@@ -1,4 +1,4 @@
--- {"id": 974367891, "ver": "1.0.0", "libVer": "1.0.0", "author": "YourName", "repo": ""}
+-- {"id": 974367891, "ver": "1.0.0", "libVer": "1.0.0", "author": "Xq19Shadow", "repo": ""}
 
 local baseURL = "https://www.divinedaolibrary.com"
 local name = "Divine Dao Library"
