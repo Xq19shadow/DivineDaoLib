@@ -5,7 +5,7 @@
     "baseUrl": "https://www.divinedaolibrary.com",
     "version": 1,
     "language": "en",
-    "codeUrl": "https://raw.githubusercontent.com/Xq19shadow/DivineDaoLib/main/src/en/DivineDaoLibrary.lua",
+    "codeUrl": "https://raw.githubusercontent.com/Xq19shadow/DivineDaoLib/refs/heads/main/src/en/DivineDaoLibrary.lua",
     "author": "Xq19Shadow"
   }
 ]
