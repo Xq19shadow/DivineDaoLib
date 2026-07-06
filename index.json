@@ -1,11 +1,13 @@
-[
-  {
-    "id": 974367891,
-    "name": "Divine Dao Library",
-    "baseUrl": "https://www.divinedaolibrary.com",
-    "version": 1,
-    "language": "en",
-    "codeUrl": "https://raw.githubusercontent.com/Xq19shadow/DivineDaoLib/refs/heads/main/src/en/DivineDaoLibrary.lua",
-    "author": "Xq19Shadow"
-  }
-]
+{
+  "scripts": [
+    {
+      "name": "Divine Dao Library",
+      "fileName": "DivineDaoLibrary",
+      "id": 974367891,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "codeUrl": "https://raw.githubusercontent.com/Xq19shadow/DivineDaoLib/main/src/en/DivineDaoLibrary.lua"
+    }
+  ]
+}
