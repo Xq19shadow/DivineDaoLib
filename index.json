@@ -1,13 +1,19 @@
 {
+  "libraries": [
+    {
+      "name": "DivineDaoLib",
+      "version": "1.0.0"
+    }
+  ],
   "scripts": [
     {
-      "name": "Divine Dao Library",
-      "fileName": "DivineDaoLibrary",
-      "id": 974367891,
+      "id": 123456,
+      "name": "Your Extension Name",
+      "fileName": "your_extension.lua",
+      "version": "1.0.0",
       "lang": "en",
-      "ver": "1.0.0",
-      "libVer": "1.0.0",
-      "codeUrl": "https://raw.githubusercontent.com/Xq19shadow/DivineDaoLib/main/src/en/DivineDaoLibrary.lua"
+      "imageURL": "https://raw.githubusercontent.com/Xq19shadow/DivineDaoLib/main/icons/icon.png"
     }
-  ]
+  ],
+  "styles": []
 }
